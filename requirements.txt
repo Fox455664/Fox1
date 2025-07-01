@@ -10,9 +10,9 @@ hachoir
 heroku3
 lyricsgenius
 motor
-numpy
+# numpy
 oldpyro
-pillow
+# pillow
 psutil
 pytgcalls
 pySmartDL
