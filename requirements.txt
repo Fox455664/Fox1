@@ -11,14 +11,14 @@ heroku3
 lyricsgenius
 motor
 # numpy
-oldpyro
+# oldpyro
 # pillow
 psutil
-pytgcalls
+# pytgcalls
 pySmartDL
 pykeyboard
 pymongo[srv]
-pyromod~=1.5
+# pyromod~=1.5
 python-dotenv
 pyyaml==5.3.1
 pytz
@@ -27,7 +27,7 @@ speedtest-cli
 spotipy
 telegraph
 telethon
-tgcrypto
+# tgcrypto
 unidecode
 wget
 youtube-search
