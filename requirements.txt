@@ -1,35 +1,35 @@
 aiofiles
 aiohttp
-asyncio
-beautifulsoup4
 dnspython
 ffmpeg-python
 gitpython
-gtts
+gTTS
 hachoir
 heroku3
 lyricsgenius
 motor
-# numpy
-# oldpyro
-# pillow
+pillow
 psutil
-# pytgcalls
-pySmartDL
+py-tgcalls==0.9.7
 pykeyboard
-pymongo[srv]
-# pyromod~=1.5
+pyrogram==2.0.106
 python-dotenv
 pyyaml==5.3.1
-pytz
+pyromod~=1.5
 requests
 speedtest-cli
 spotipy
 telegraph
 telethon
-# tgcrypto
+tgcrypto
 unidecode
-wget
-youtube-search
-youtube-search-python
 yt-dlp
+gpytranslate
+youtube-search-python
+SpeechRecognition
+pytz
+pySmartDL
+wget
+schedule
+pydub
+playsound
