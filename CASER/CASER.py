@@ -65,8 +65,8 @@ r = redis.Redis(
     decode_responses=True # Important for string operations
 )
 
-API_ID = int(os.getenv("API_ID", "8186557"))
-API_HASH = os.getenv("API_HASH", "efd77b34c69c164ce158037ff5a0d117")
+API_ID = int(os.getenv("API_ID", "25655555"))
+API_HASH = os.getenv("API_HASH", "57b330d11c2e758e6e3514ffc586bad5")
 Bots = []
 Musi = []
 CASER = [] 
