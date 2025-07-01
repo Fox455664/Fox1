@@ -32,4 +32,4 @@ pySmartDL
 wget
 schedule
 pydub
-playsound
+playsound==1.2.2
